@@ -1,0 +1,128 @@
+What will you have dialogue about?
+- talk about shared identities
+- but identities are not shared: in the UK, any idea of unity has been blown out of the water
+- people used to identify on a national basis, now we identify as leavers or remainers first, before place-based identities
+
+THEMES:
+- Heritage
+  - heritage: no definition. Is it what "We" choose to talk fro the past?
+  - can be a representational, discursive and performative practice involving conscious attempts to valorise aspects of the past in the present
+  - choosing something from the past and consciously imbuing it with values. WHAT ARE THOSE VALUES AND HOW DO THEY DIFFER ACROSS GROUPS, individuals
+  - can be official or unofficial (museums or not)
+  - tangible or intangible, mixtures
+  - may not always be GOOD OR PRODUCTIVE
+  - nordic heritage -> violence -> not multicultural
+  - connections/disconnections - piazzale loreto, milan - something momentous happened there (mussolini's body was stoned) - collective consciousness. Not a heritage site "officially" but culturally...
+- Difficult heritage
+  - WHAT COUNTS AS DIFFICULT HERITAGE?
+- Unwanted heritage
+  - Germany might have dealt with Nazis but they are just now dealing with it in Norway... unwelcome, embarrassing reminders
+    - Nordmenn (kjemp for norge)
+    - Amsterdam: not spectacular historical issue of how they dealt with Turkish guest workers - not concentration camps but close to slavery type conditions
+    - Wallsend: official v. neglected heritage
+      - Roman history
+      - Fortress
+      - Signs at the metro station in English and Latin
+      - Dominant heritage memory is not official - not Roman past - rather, ship-building - shipyard was closed, economic downfall - much more relevant to their lives
+  - Hot and cold memory
+    - Hot memory - what's really tense - not necessarily in museums and official heritage - can be kept out of official sphere because it's too difficult to deal with
+    - Cold memory - the holocaust
+    - WHAT PREVENTS HOT MEMORIES FROM BECOMING RITUALIZED IN THE ESTABLISHED?
+  - Stories that don't get told
+    - Stories that get told: hellenistic antiquity, renaissance, Christian Europe, exploration, the Ottoman threat, slavery and its abolition, WW2, communism, european integration, civil rights, multiculture
+    - Don't get told: crusader massacres, slavery, child labour, looking the other way, massive labour migration, expulsion of Jews in the 13th century
+    - COMPETITIVE MEMORY: MY GROUP MEMORY TAKES SPACES FROM YOUR GROUP MEMORY - LIKE A ZERO SUM GAME
+      - Sandra Kalniete, Old Europe / New Europe: the history of Soviet depression is as deserving as the Holocaust
+      - Museum of London Docklands - London, sugar and slavery - how London is built on profits from slavery - the museum ends the exhibit in happy multiculturalism - comments were left
+        - British National Party left leaflets about the "changing face of London" - from everything's white to veiled women not integrating
+        - Fictions: mythic British 1950s as the "right" way vs. burkhas
+        - WHAT DO YOU DO WITH THIS? Dialogue and discussion in museums - the limits of dialogue - where it gets stopped by public order - when can you have a discussion - when is one speaker saying something beyond acceptance -
+        - Holocaust - can present it as a closed thing - but there is a directionality to it - such as Austrian prime minister saying it recalled the darkest hours of the 1930s when they were shipping immigrants on trains without saying where they were going - or when Jo Cox's murder was celebrated by white supremacists -
+        - Berlin museum of euro cultures - positive expression of multiculturalism - donut kebab tool = complex object / symbol - quotidian and emblem of fusion of cultures - German / Turkish invention - museum didn't acknowledge the murders of  the Turkish people and Merkel's statement that multiculturalism had failed
+        - Mobilizations of histories based on:
+          - Magna Carta - when sovereignty and rights of people compared to rights of king - no one's above the law - mobilizes Magna Carta to argue for Britain to be separate from Europe
+          - Siege of Vienna - the moment when Christians won Europe - Europe SHOULD be Christian. Why did we fight at Vienna if we are letting Muslims in?
+- Critical heritage - changing from how to look at rock to looking at politics and social meanings of heritage in a way broadly influences by Foucault and how he thinks about power and knowledge
+  - Resolving or understanding CRISIS:
+  - WHAT __SOMETHING__ IS HERITAGE CRITICAL FOR?
+    - Not trying to resolve, trying to understand
+- History games and serious play
+  - Orhan Pamuk The Museum of Innocence
+  - Affective Relations
+  - What is difficult to deal with? Time and place - positions based on where we are in time and place -
+    - Mess around, play - FICTION - SCENARIOS
+    - Areti's sit with me - understanding through perspectives of different people - empathy game - personal view, voice as frame on history
+    - Historical relatedness - connections games
+    - Think about time: transport things from the past into the present - if Richard the Lionheart who murdered Islamics in the 12th century - if you say that happened last week - or if we were considering a current issue as if it were 100 yrs ago or if we were ourselves refugees
+    - This play can test tolerance to difficulties - to foster a general openness to other ways of being - you are more than just you (a leaver, a remainer, a Danish, etc) - suspend disbelief
+    - WHAT KINDS OF TECHNOLOGIES CAN ENABLE US TO INHABIT MORE POSITIONS?
+- WP1 SPECIFIC SITES / CLEAVAGES - PARADIGMS, POINTS FOR discussion
+  - History of Vikings in the Shetland islands - talk about that easily
+  - But post-war migration
+  - Memory of collaboration with Nazis in Norway - more difficult - from safe to difficult
+  - WHEN ARE HERITAGES CRITICAL?
+  - range: some embedded (what does it mean to grow up in walls end liking electro beat), some in your face (multicultural polity)
+  - CONSTRUCTIONS of the north in death-metal music + norse mythology
+  - how many dialogues, points of spark?
+  - WHERE WERE YOU WHEN?
+
+
+
+ARETI
+- Dialogic approaches in MGH:
+  - Museums are places where dialogue "flourishes" and yet digital media has democratizing potential for everyone to express opinion
+  - But bottom line is that in this intersection there is limited research that works with those notions of dialogue -
+  - This package is trying to think about HOW those embodied/social encounters with challenging histories / hidden histories / is re-imagined in digital media: scope and purpose
+  - Digital installations - what is the clear purpose? Not resolution of crisis -
+  - Bakhtin: dialogism and meaning-making:
+    - any relations between myself and other is conducted through dialogue - no way we can understand ourselves separately from the other - MEDIATION - we cannot understand ourselves without thinking about the other - you cannot understand the donut-kebab display without the murders - we construct ourselves by connecting and understanding others - but we are NOT THE SAME AS THE OTHER -
+    - accountability towards the other by the mere fact that we exist together - we cannot live morally by ourselves -
+    - how is dialogue constituted through language - from Dostoevsky - HOW
+    - intercultural dialogue: important to MGH in europe - as a tool for peace -
+      - equal dignity, voluntary engagement, open mindset, absence of desire to win dialogue, look at cultural similarities/diffs, minimum degree of knowledge about one's own and the "other" culture, ability to find a common lang for understanding and respecting cultural differences
+        - critique of europe's approach to intercultural dialogue:
+          - has focused on cultural diversity but the real need is in addressing difference - diversity focuses on cultural expression, difference arise from class, belief systems, religious orientation, etc.
+          - the role of intercultural dialogue is to bridge diversity and difference
+          - the donut-kebab: YOU HAVE TO WESTERNIZE SOMETHING IN ORDER FOR IT TO BECOME OK
+        - simona bodo: yes we need to renogotiate heritage... heritage is not separate from life, happens over time. dialogic paradigm at museum needs to ALLOW for this to continue.
+    - relational dialectics theory: from psychology
+      - how couples and relations work - if we remain open, relationships will be maintained. No, this is not true because the tensions are useful to have.
+      - social reality of an individual is in contradiction with another's
+      - SUGGEST, REVEAL CONTRADICTION
+    - dialogue in museums:
+      - dialogue as a purpose - happy multiculturalism
+      - dialogue as purposive - to achieve a goal - activism, transformation, agreement, etc.
+        - participatory - allows people to transform because you look at other's opinions and then put your response - you put your response next to another's and point arrows -
+          - but does the tree really fall if no one hears it?
+      - dialogue with one self - moral life - empathy and affect
+        - WHAT ARE THE RESULTS OF AN EMPATHIC SPACE? CAN WE CAPTURE THE RESULTS?
+- Examples:
+  - CONTROMODA - panels contain the critique of curatorial text by fashion critics - messy, multiple viewpoints - MARGINALIA
+  - talkaoke table -
+  - Sunflower seeds - visitors could submit video questions to AiWeiWei - a-synchronous
+  - norwegian gypsies - projection on a table - roma or gypsy? dialogue is literally performed. chairs around the thing where people sat and could imagine.
+  - rafael lozano hemmer - embodied dialogue - no text, sound, stories - faces from Darby are activated when your shadow is over them
+  - mitchell whitelaw - transformation, seamfulness - me and the portrait, me and you, me and us, me and my reflection, past-present-future time continuum
+    - harmony is the overarching goal
+
+- INGREDIENTS OF A DIALOGIC SPACE
+  - OPENNESS: not just create opportunity but make it VISIBLE
+  - RULES OF ENGAGEMENT NEED TO BE EVIDENT -
+  - FACILITATION
+  - SCAFFOLDING AND STRUCTURE
+  - SEAMFULNESS/MESSINESS
+  - LEGIBLE
+  - FICTION - Cardiff -
+- IF MUSEUMS COULD TELL FICTIONAL STORIES... which ones are acceptable? Definitive truths
+  - need to start with a place, neighborhood, object
+
+PRIMING...
+- BRINGING BACK INTO VIEW THE PAST AND THE PRESENT, EMPIRE LINKED TO... INDIAN-PAKISTANI PRESENCE
+- we are not trying to change people's minds
+- they have to co-exist -
+- HOW CAN WE FIND MEANS OF OCCUPYING OTHER POSITIONS
+  - Germany journalist set up a separate facebook profile where he liked a few pages that were the opposite of his normal
+- MUSEUM IS ANONYMOUS TRUTH MACHINE
+- toolkit of things: masks if anonymity is important, for example
+  - need to start with the topic and then explore possibilities
+  - contextual, embedded, situated character
